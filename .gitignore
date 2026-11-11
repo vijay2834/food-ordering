@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+# runtime state written by the app
+ui/session.txt
+ui/selected_*.txt
